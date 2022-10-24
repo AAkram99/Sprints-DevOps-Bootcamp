@@ -5,3 +5,9 @@ Definition of Done :
     4- code reviewed
     
  Definition of Ready : 
+    1- independent on other user stories 
+    2- must add a clear value to the product for the enduser
+    3- must be estimable by the team members and can be measured approximatly 
+    4- must be small to fit the sprint duration 
+    5- can be tested 
+    
