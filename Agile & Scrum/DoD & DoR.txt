@@ -1,2 +1,7 @@
-
-                       
+Definition of Done : 
+    1- user story is ready and confirmed by the product owner 
+    2- code is build and run without errors
+    3- unit test passes 
+    4- code reviewed
+    
+ Definition of Ready : 
